@@ -1,0 +1,15 @@
+C:\Users\Mark\Desktop\Work\Стажировка\Car_PL\Delta_Car_Test\Delta_Car_Test\bin\Debug\net6.0\Delta_Car_Test.exe
+C:\Users\Mark\Desktop\Work\Стажировка\Car_PL\Delta_Car_Test\Delta_Car_Test\bin\Debug\net6.0\Delta_Car_Test.deps.json
+C:\Users\Mark\Desktop\Work\Стажировка\Car_PL\Delta_Car_Test\Delta_Car_Test\bin\Debug\net6.0\Delta_Car_Test.runtimeconfig.json
+C:\Users\Mark\Desktop\Work\Стажировка\Car_PL\Delta_Car_Test\Delta_Car_Test\bin\Debug\net6.0\Delta_Car_Test.dll
+C:\Users\Mark\Desktop\Work\Стажировка\Car_PL\Delta_Car_Test\Delta_Car_Test\bin\Debug\net6.0\Delta_Car_Test.pdb
+C:\Users\Mark\Desktop\Work\Стажировка\Car_PL\Delta_Car_Test\Delta_Car_Test\obj\Debug\net6.0\Delta_Car_Test.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\Work\Стажировка\Car_PL\Delta_Car_Test\Delta_Car_Test\obj\Debug\net6.0\Delta_Car_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Desktop\Work\Стажировка\Car_PL\Delta_Car_Test\Delta_Car_Test\obj\Debug\net6.0\Delta_Car_Test.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\Work\Стажировка\Car_PL\Delta_Car_Test\Delta_Car_Test\obj\Debug\net6.0\Delta_Car_Test.AssemblyInfo.cs
+C:\Users\Mark\Desktop\Work\Стажировка\Car_PL\Delta_Car_Test\Delta_Car_Test\obj\Debug\net6.0\Delta_Car_Test.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Work\Стажировка\Car_PL\Delta_Car_Test\Delta_Car_Test\obj\Debug\net6.0\Delta_Car_Test.dll
+C:\Users\Mark\Desktop\Work\Стажировка\Car_PL\Delta_Car_Test\Delta_Car_Test\obj\Debug\net6.0\refint\Delta_Car_Test.dll
+C:\Users\Mark\Desktop\Work\Стажировка\Car_PL\Delta_Car_Test\Delta_Car_Test\obj\Debug\net6.0\Delta_Car_Test.pdb
+C:\Users\Mark\Desktop\Work\Стажировка\Car_PL\Delta_Car_Test\Delta_Car_Test\obj\Debug\net6.0\Delta_Car_Test.genruntimeconfig.cache
+C:\Users\Mark\Desktop\Work\Стажировка\Car_PL\Delta_Car_Test\Delta_Car_Test\obj\Debug\net6.0\ref\Delta_Car_Test.dll
